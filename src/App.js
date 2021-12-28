@@ -1,10 +1,11 @@
 import React, { useState, useEffect } from 'react'
 import Loading from './Loading'
 import Years from './Years'
+import pizza from '../public/images/pizza.jpg'
 export default App
 
 
-const imagesAndColors = [{image: './images/pizza.jpg', color: 'red', Year: '2019', info: 'Lorem ipsum, dolor sit amet consectetur adipisicing elit. Obcaecati, beatae non earum porro libero nesciunt et saepe sapiente voluptates illum?'},
+const imagesAndColors = [{image: {pizza}, color: 'red', Year: '2019', info: 'Lorem ipsum, dolor sit amet consectetur adipisicing elit. Obcaecati, beatae non earum porro libero nesciunt et saepe sapiente voluptates illum?'},
                         {image: '../images/pizza.jpg', color: 'orange', Year: '2018', info: 'Lorem ipsum, dolor sit amet consectetur adipisicing elit. Obcaecati, beatae non earum porro libero nesciunt et saepe sapiente voluptates illum?'},
                         {image: '../images/pizza.jpg', color: 'yellow', Year: '2017', info: 'Lorem ipsum, dolor sit amet consectetur adipisicing elit. Obcaecati, beatae non earum porro libero nesciunt et saepe sapiente voluptates illum?'},
                         {image: '../images/pizza.jpg', color: 'green', Year: '2016', info: 'Lorem ipsum, dolor sit amet consectetur adipisicing elit. Obcaecati, beatae non earum porro libero nesciunt et saepe sapiente voluptates illum?'},
