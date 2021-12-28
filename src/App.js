@@ -4,13 +4,13 @@ import Years from './Years'
 export default App
 
 
-const imagesAndColors = [{image: './images/pizza.jpg', color: 'red', Year: '2019', info: 'Lorem ipsum, dolor sit amet consectetur adipisicing elit. Obcaecati, beatae non earum porro libero nesciunt et saepe sapiente voluptates illum?'},
-                        {image: './images/pizza.jpg', color: 'orange', Year: '2018', info: 'Lorem ipsum, dolor sit amet consectetur adipisicing elit. Obcaecati, beatae non earum porro libero nesciunt et saepe sapiente voluptates illum?'},
-                        {image: './images/pizza.jpg', color: 'yellow', Year: '2017', info: 'Lorem ipsum, dolor sit amet consectetur adipisicing elit. Obcaecati, beatae non earum porro libero nesciunt et saepe sapiente voluptates illum?'},
-                        {image: './images/pizza.jpg', color: 'green', Year: '2016', info: 'Lorem ipsum, dolor sit amet consectetur adipisicing elit. Obcaecati, beatae non earum porro libero nesciunt et saepe sapiente voluptates illum?'},
-                        {image: './images/pizza.jpg', color: 'blue', Year: '2015', info: 'Lorem ipsum, dolor sit amet consectetur adipisicing elit. Obcaecati, beatae non earum porro libero nesciunt et saepe sapiente voluptates illum?'},
-                        {image: './images/pizza.jpg', color: 'indigo', Year: '2014', info: 'Lorem ipsum, dolor sit amet consectetur adipisicing elit. Obcaecati, beatae non earum porro libero nesciunt et saepe sapiente voluptates illum?'},
-                        {image: './images/pizza.jpg', color: 'violet', Year: '2013', info: 'Lorem ipsum, dolor sit amet consectetur adipisicing elit. Obcaecati, beatae non earum porro libero nesciunt et saepe sapiente voluptates illum?'}
+const imagesAndColors = [{image: './images/image1.jpg', color: 'red', Year: '2019', info: 'Lorem ipsum, dolor sit amet consectetur adipisicing elit. Obcaecati, beatae non earum porro libero nesciunt et saepe sapiente voluptates illum?'},
+                        {image: './images/image2.jpg', color: 'orange', Year: '2018', info: 'Lorem ipsum, dolor sit amet consectetur adipisicing elit. Obcaecati, beatae non earum porro libero nesciunt et saepe sapiente voluptates illum?'},
+                        {image: './images/image3.jpg', color: 'yellow', Year: '2017', info: 'Lorem ipsum, dolor sit amet consectetur adipisicing elit. Obcaecati, beatae non earum porro libero nesciunt et saepe sapiente voluptates illum?'},
+                        {image: './images/image4.jpg', color: 'green', Year: '2016', info: 'Lorem ipsum, dolor sit amet consectetur adipisicing elit. Obcaecati, beatae non earum porro libero nesciunt et saepe sapiente voluptates illum?'},
+                        {image: './images/image5.jpg', color: 'blue', Year: '2015', info: 'Lorem ipsum, dolor sit amet consectetur adipisicing elit. Obcaecati, beatae non earum porro libero nesciunt et saepe sapiente voluptates illum?'},
+                        {image: './images/image6.jpg', color: 'indigo', Year: '2014', info: 'Lorem ipsum, dolor sit amet consectetur adipisicing elit. Obcaecati, beatae non earum porro libero nesciunt et saepe sapiente voluptates illum?'},
+                        {image: './images/image7.jpg', color: 'violet', Year: '2013', info: 'Lorem ipsum, dolor sit amet consectetur adipisicing elit. Obcaecati, beatae non earum porro libero nesciunt et saepe sapiente voluptates illum?'}
                         ];
 
 
